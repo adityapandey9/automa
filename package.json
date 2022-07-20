@@ -46,7 +46,7 @@
     "compare-versions": "^4.1.2",
     "crypto-js": "^4.1.1",
     "css-selector-generator": "^3.6.0",
-    "dayjs": "^1.10.7",
+    "dayjs": "^1.11.4",
     "defu": "^6.0.0",
     "drawflow": "^0.0.58",
     "idb": "^7.0.0",
